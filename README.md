@@ -1,18 +1,16 @@
 # Thought Bank
 
-Inspired by the following reddit comment on this [reddit post](https://www.reddit.com/r/AskReddit/comments/85j3ki/reddit_whats_your_million_dollar_app_idea_that/)
+Inspired by the following comment on this [reddit post](https://www.reddit.com/r/AskReddit/comments/85j3ki/reddit_whats_your_million_dollar_app_idea_that/)
 
-```text
-ThoughtBank.
-
-Imagine Twitter with no running feed. There's a Deposit function (post) and a Withdraw function (browse).
-
-Deposit is when you have a random thought, idea, joke, etc. You type it in, then hit deposit. It goes into the "bank," disappearing forever (at least from your perspective).
-
-When you hit Withdraw, you get serviced a random thought that another user has deposited. If it's deep, or makes you laugh, etc., you swipe right and it goes into your ThoughtWallet, so you can go back and view it later. Each user has a tracker that shows how many times their thoughts have been saved by other users (thoughtstock value). The more times a thought gets saved, the more likely it is to show up for other users' consideration. Similar to Tinder, as long as you keep swiping, you keep seeing new thoughts. (pun intended?) Ideally there would be an auto-mod system assigns each post a unique code to prevent any one user from getting served the same thought post repeatedly.
-
-Possible additions are some sort of feature to enforce originality in the actual text of each post (which has it's own drawbacks), geo-mapped leaderboard of ppl in your area with the highest thoughtstock value, etc. Total anonymity would also be a nice feature, but that eliminates a lot of the potential gamification aspects and is much less attractive to advertisers.
-```
+>ThoughtBank.
+>
+>Imagine Twitter with no running feed. There's a Deposit function (post) and a Withdraw function (browse).
+>
+>Deposit is when you have a random thought, idea, joke, etc. You type it in, then hit deposit. It goes into the "bank," disappearing forever (at least from your perspective).
+>
+>When you hit Withdraw, you get serviced a random thought that another user has deposited. If it's deep, or makes you laugh, etc., you swipe right and it goes into your ThoughtWallet, so you can go back and view it later. Each user has a tracker that shows how many times their thoughts have been saved by other users (thoughtstock value). The more times a thought gets saved, the more likely it is to show up for other users' consideration. Similar to Tinder, as long as you keep swiping, you keep seeing new thoughts. (pun intended?) Ideally there would be an auto-mod system assigns each post a unique code to prevent any one user from getting served the same thought post repeatedly.
+>
+>Possible additions are some sort of feature to enforce originality in the actual text of each post (which has it's own drawbacks), geo-mapped leaderboard of ppl in your area with the highest thoughtstock value, etc. Total anonymity would also be a nice feature, but that eliminates a lot of the potential gamification aspects and is much less attractive to advertisers.
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop, Server.
 
